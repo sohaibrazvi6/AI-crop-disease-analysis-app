@@ -30,7 +30,7 @@ st.markdown("""
         border-left: 5px solid #2e7d32;
     }
     </style>
-    """, unsafe_all_white_space=True)
+    """, unsafe_allow_html=True)
 
 # --- 2. ASSET LOADING ---
 @st.cache_resource
