@@ -115,4 +115,4 @@ if input_image is not None:
 
 # --- 7. FOOTER ---
 st.markdown("---")
-st.caption("Developed by a CSE Student at Osmania University | CropGuard v1.0")
+st.caption("Developed by Syed Sohaib Sultan Razvi, a CSE Student at Muffakham Jah College Of Engineering and Technology affiliated to Osmania University| CropGuard v1.0")
